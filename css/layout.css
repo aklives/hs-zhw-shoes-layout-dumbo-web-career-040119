@@ -49,3 +49,7 @@ section {
   overflow:auto;
   margin-left: 15px;
 }
+
+#archive {
+  margin: 0 10px 10px 10px
+}
