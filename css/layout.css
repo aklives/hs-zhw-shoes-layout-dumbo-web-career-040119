@@ -24,14 +24,14 @@
 
 /* Positioning Classes */
 .col-1 {
-  float:left;
+  
   width: 30%;
   margin: 20px;
 
 }
 
 .col-2 {
-  float:left;
+  ;
   width: 60%;
   margin: 20px;
 
