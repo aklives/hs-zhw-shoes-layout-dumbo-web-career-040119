@@ -24,14 +24,14 @@
 
 /* Positioning Classes */
 .col-1 {
-  display:inline;
+  
   width: 30%;
   margin: 20px;
 
 }
 
 .col-2 {
-  display:inline;
+  
   width: 60%;
   margin: 20px;
 
