@@ -26,16 +26,11 @@
 .col-1 {
   float:left;
   width: 30%;
-  border: 20px;
-  border-color: rgb(255,255,255,0)
 }
 
 .col-2 {
   float:left;
   width: 60%;
-  border: 20px;
-  border-color: rgb(255,255,255,0)
-
 }
 
 .col-3 {
